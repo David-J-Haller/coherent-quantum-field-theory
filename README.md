@@ -1,5 +1,7 @@
 # Coherent Quantum Field Theory (CQT)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100362.svg)](https://doi.org/10.5281/zenodo.19100362)
+
 **Author:** David J. Haller
 
 A theoretical framework exploring the interaction of coherent quantum fields with biological systems and consciousness.
