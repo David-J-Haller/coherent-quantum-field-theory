@@ -91,9 +91,19 @@ The repository uses a **dual licensing model**.
 
 ### Software
 
-Simulation code may be released under permissive open-source licenses.
+Research License
+
+The software provided in this repository may be used freely
+for non-commercial academic and research purposes.
+
+Commercial use of the software requires explicit licensing
+from the author.
+
+Copyright (c) David J. Haller
 
 ### Manuscript
+
+CC BY-NC-ND 4.0
 
 The scientific manuscripts are protected under a **non-commercial license**.
 
