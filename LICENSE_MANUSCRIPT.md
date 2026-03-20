@@ -44,4 +44,5 @@ https://doi.org/10.5281/zenodo.19100362
 
 ## Simulation Software
 
-Simulation code may be released under separate open-source licenses and is not covered by this manuscript license.
+Simulation software associated with this project may be released under separate open-source licenses.  
+Such software is governed by its own license terms and is not subject to the restrictions of this manuscript license.
