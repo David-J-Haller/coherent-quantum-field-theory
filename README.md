@@ -101,5 +101,31 @@ Commercial use requires explicit permission from the author.
 
 See: LICENSE_MANUSCRIPT.md
 
+---
 
+# Research Status
+
+CQT is an ongoing theoretical research program investigating nonlinear coherent quantum dynamics in biological systems.
+
+The repository serves as:
+
+- documentation hub
+- reproducibility resource
+- simulation architecture reference
+
+The official archival publications remain the Zenodo DOI records.
+
+---
+
+# Author
+
+David J. Haller
+
+Independent Researcher
+
+---
+
+# Repository
+
+https://github.com/David-J-Haller/coherent-quantum-field-theory
 
