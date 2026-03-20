@@ -4,6 +4,8 @@
 
 **Author:** David J. Haller
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--5806--6317-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-5806-6317)
+
 A theoretical framework exploring the interaction of coherent quantum fields with biological systems and consciousness.
 
 ---
