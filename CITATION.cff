@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Coherent Quantum Field Theory (CQT)"
+message: "If you use this work, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Haller
+    given-names: David J.
+
+repository-code: "https://github.com/David-J-Haller/coherent-quantum-field-theory"
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19100362
+    description: English manuscript
+
+  - type: doi
+    value: 10.5281/zenodo.19100136
+    description: German manuscript
+
+  - type: doi
+    value: 10.5281/zenodo.19100141
+    description: Simulation package
+
+keywords:
+  - quantum field theory
+  - consciousness
+  - quantum biology
+  - open quantum systems
+  - nonlinear dynamics
