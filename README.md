@@ -76,21 +76,19 @@ The present repository does not implement these applications directly.
 Instead, it provides a numerical framework for exploring the underlying nonlinear dynamical mechanisms, such as multistability, hysteresis, and attractor formation.
 
 
-# Repository Structure
+## Repository Structure
 
-coherent-quantum-field-theory
-│
-├── paper
-│ └── manuscript references
-│
-├── simulations
-│ └── documentation of simulation architecture
-│
-├── docs
-│ └── project documentation
-│
-├── data
-│ └── example outputs
+- **paper/**
+  - manuscript references
+
+- **simulations/**
+  - documentation of simulation architecture
+
+- **docs/**
+  - project documentation
+
+- **data/**
+  - example outputs
 
 
 ---
