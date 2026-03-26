@@ -34,6 +34,9 @@ A theoretical framework exploring the interaction of coherent quantum fields wit
   <img src="readme_assets/gif_noise_switching.gif" width="760" alt="CQT noise induced switching" />
 </p>
 
+These visualizations summarize the central nonlinear dynamical features of the extended CQT mean-field model:
+multistability, hysteresis, phase-space convergence, basin structure, and noise-robust attractor behaviour.
+
 ## Overview
 
 The **Coherent Quantum Field Theory (CQT)** proposes that biological systems may interact with coherent quantum fields through nonlinear open-system dynamics.
