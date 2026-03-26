@@ -10,6 +10,30 @@ A theoretical framework exploring the interaction of coherent quantum fields wit
 
 ---
 
+<h2>Dynamical Signatures of the CQT Model</h2>
+
+<p>These animations summarize core nonlinear signatures of the CQT framework.</p>
+
+<h3>Multistability / Hysteresis</h3>
+<p align="center">
+  <img src="readme_assets/gif_multistability.gif" width="760" alt="CQT multistability hysteresis" />
+</p>
+
+<h3>Phase-space attractor convergence</h3>
+<p align="center">
+  <img src="readme_assets/gif_phase_space.gif" width="620" alt="CQT phase-space attractors" />
+</p>
+
+<h3>Basin-of-attraction structure</h3>
+<p align="center">
+  <img src="readme_assets/gif_basins.gif" width="680" alt="CQT basin structure" />
+</p>
+
+<h3>Noise-seeded switching</h3>
+<p align="center">
+  <img src="readme_assets/gif_noise_switching.gif" width="760" alt="CQT noise induced switching" />
+</p>
+
 ## Overview
 
 The **Coherent Quantum Field Theory (CQT)** proposes that biological systems may interact with coherent quantum fields through nonlinear open-system dynamics.
