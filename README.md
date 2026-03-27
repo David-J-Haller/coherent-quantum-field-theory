@@ -1,6 +1,8 @@
 # Coherent Quantum Field Theory (CQT)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100362.svg)](https://doi.org/10.5281/zenodo.19100362)
+[![English Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100362.svg)](https://doi.org/10.5281/zenodo.19100362)
+[![German Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100136.svg)](https://doi.org/10.5281/zenodo.19100136)
+[![Simulation Package DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100141.svg)](https://doi.org/10.5281/zenodo.19100141)
 
 **Author:** David J. Haller
 
@@ -61,11 +63,11 @@ CQT is presented as an interdisciplinary research program exploring the potentia
 
 ## English Version
 
-https://doi.org/10.5281/zenodo.19100362
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100362.svg)](https://doi.org/10.5281/zenodo.19100362)
 
 ## German Version
 
-https://doi.org/10.5281/zenodo.19100136
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100136.svg)](https://doi.org/10.5281/zenodo.19100136)
 
 ---
 
@@ -73,7 +75,7 @@ https://doi.org/10.5281/zenodo.19100136
 
 The numerical simulation framework used to investigate the nonlinear dynamics of the CQT mean-field model is archived at:
 
-https://doi.org/10.5281/zenodo.19100141
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100141.svg)](https://doi.org/10.5281/zenodo.19100141)
 
 The simulation package contains:
 
@@ -128,7 +130,7 @@ Haller, David J.
 
 Coherent Quantum Field Theory (CQT)
 
-DOI: https://doi.org/10.5281/zenodo.19100362
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19100362.svg)](https://doi.org/10.5281/zenodo.19100362)
 
 ---
 
