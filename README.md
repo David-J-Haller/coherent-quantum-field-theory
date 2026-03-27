@@ -146,7 +146,7 @@ for non-commercial academic and research purposes.
 Commercial use of the software requires explicit licensing
 from the author.
 
-Copyright (c) David J. Haller
+Copyright 2026 (c) David J. Haller
 
 ### Manuscript
 
@@ -176,7 +176,7 @@ The official archival publications remain the Zenodo DOI records.
 
 # Author
 
-David J. Haller
+David J. Haller & Team
 
 Independent Researcher
 
