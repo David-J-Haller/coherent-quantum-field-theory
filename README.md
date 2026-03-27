@@ -91,13 +91,13 @@ The dynamical model investigated in this repository belongs to the broader class
 
 Such systems appear in several active research areas in physics, information processing, and complex systems.
 
-Potential application domains include:
+ Potential application domains include:
 
-• Reservoir computing and physical neural networks  
-• Photonic and polaritonic computing systems  
-• Nonlinear resonator-based sensing technologies  
-• Neuromorphic oscillator networks  
-• Open quantum system control and stabilization  
+- Reservoir computing and physical neural networks
+- Photonic and polaritonic computing systems
+- Nonlinear resonator-based sensing technologies
+- Neuromorphic oscillator networks
+- Open quantum system control and stabilization 
 
 The present repository does not implement these applications directly.  
 Instead, it provides a numerical framework for exploring the underlying nonlinear dynamical mechanisms, such as multistability, hysteresis, and attractor formation.
