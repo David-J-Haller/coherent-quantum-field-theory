@@ -57,6 +57,24 @@ The theory connects concepts from:
 
 CQT is presented as an interdisciplinary research program exploring the potential role of coherent quantum fields in biological and cognitive processes.
 
+## Core Assumptions of the CQT Framework
+
+The coherent quantum field theory (CQT) framework is motivated by the hypothesis that certain biological and physical systems may operate in regimes where coherent quantum field dynamics interact with dissipative environments.
+
+The model investigated in this repository is based on several working assumptions:
+
+- Biological structures can act as **mesoscopic resonators** capable of interacting with coherent field modes.
+
+- The relevant dynamics can be approximated using **effective mean-field equations** describing driven nonlinear oscillatory systems.
+
+- Dissipative processes and environmental coupling play a central role and are described within the framework of **open quantum system dynamics**.
+
+- Feedback and slow memory variables may introduce **nonlinear self-modulation**, allowing the emergence of complex attractor structures.
+
+- Under certain parameter regimes the system can exhibit **multistability**, hysteresis, and basin-dependent stationary states.
+
+The numerical framework implemented in this repository explores these dynamical regimes using systematic parameter scans and stability analysis.
+
 ---
 
 # Official Publications
