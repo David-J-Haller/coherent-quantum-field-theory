@@ -200,6 +200,7 @@ David J. Haller & Team
 
 Independent Researcher
 
+German speaking public philosophical book explaining the theory
 https://amzn.eu/d/0ffl0APD
 
 ---
