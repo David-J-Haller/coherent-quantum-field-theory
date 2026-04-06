@@ -57,6 +57,33 @@ The theory connects concepts from:
 
 CQT is presented as an interdisciplinary research program exploring the potential role of coherent quantum fields in biological and cognitive processes.
 
+## Scientific Positioning of the CQT Framework
+
+The Coherent Quantum Field Theory (CQT) framework presented in this repository builds upon established concepts from several well-developed areas of physics and nonlinear dynamics, including:
+
+- open quantum system theory  
+- nonlinear dynamical systems  
+- mean-field approximations of driven resonators  
+- dissipative self-organization in complex systems  
+
+These fields provide the theoretical background for understanding how coherent oscillatory dynamics can emerge and persist in systems coupled to dissipative environments.
+
+The contribution of the present work is not the introduction of entirely new physical principles, but rather the formulation of an extended dynamical model that combines these established concepts into a unified numerical framework.
+
+In particular, the model introduces a feedback-modulated effective detuning together with a slow memory variable that allows the system to explore nonlinear dynamical regimes beyond standard mean-field descriptions.
+
+Within this framework the numerical simulations investigate conditions under which the system may exhibit:
+
+- multistability  
+- hysteresis phenomena  
+- attractor formation  
+- basin-dependent stationary states  
+
+The repository provides the complete simulation environment used to explore these dynamical regimes, enabling reproducibility and further investigation by researchers interested in nonlinear open quantum systems and related complex resonator networks.
+
+The framework should therefore be understood as an exploratory theoretical model designed to investigate possible dynamical behaviors arising from coherent field interactions in dissipative environments.
+
+
 ## Core Assumptions of the CQT Framework
 
 The coherent quantum field theory (CQT) framework is motivated by the hypothesis that certain biological and physical systems may operate in regimes where coherent quantum field dynamics interact with dissipative environments.
