@@ -107,20 +107,6 @@ The model incorporates a slow dynamical variable that represents delayed feedbac
 
 Due to the combined effects of nonlinearity, dissipation, and feedback modulation, the system may develop a complex attractor landscape. Different initial conditions can drive the system toward distinct stable stationary states, resulting in multistability and basin-dependent dynamics.
 
-## Dynamical Structure of the CQT Model
-
-```mermaid
-flowchart TD
-
-A[External Drive] --> B[Nonlinear Resonator Dynamics]
-
-B --> C[Memory Variable<br>(Slow Feedback)]
-
-C --> D[Feedback-Modulated Detuning]
-
-D --> E[Attractor Landscape<br>Multistability / Hysteresis]
-
-
 ## Core Assumptions of the CQT Framework
 
 The coherent quantum field theory (CQT) framework is motivated by the hypothesis that certain biological and physical systems may operate in regimes where coherent quantum field dynamics interact with dissipative environments.
