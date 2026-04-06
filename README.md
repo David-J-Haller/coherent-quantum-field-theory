@@ -83,6 +83,29 @@ The repository provides the complete simulation environment used to explore thes
 
 The framework should therefore be understood as an exploratory theoretical model designed to investigate possible dynamical behaviors arising from coherent field interactions in dissipative environments.
 
+## Key Dynamical Mechanisms of the Model
+
+The extended mean-field model investigated in this repository incorporates several dynamical mechanisms that can give rise to complex nonlinear behaviour in driven dissipative systems.
+
+### Nonlinear Oscillator Dynamics
+
+The system is described by nonlinear mean-field equations representing a driven resonator mode. Nonlinearity introduces amplitude-dependent frequency shifts and allows the emergence of multiple stationary solutions under identical external driving conditions.
+
+### Dissipative Coupling to the Environment
+
+Energy exchange with the surrounding environment is modeled through dissipative terms typical for open quantum systems. The interplay between external driving and dissipation determines the accessible dynamical regimes and stabilizes stationary attractor states.
+
+### Feedback-Modulated Detuning
+
+A key feature of the extended model is the introduction of a dynamically evolving detuning parameter. The effective detuning is modulated by an internal feedback variable, which allows the system to adapt its resonance conditions over time.
+
+### Slow Memory Variable
+
+The model incorporates a slow dynamical variable that represents delayed feedback or internal memory of the system. This slow–fast interaction between variables can lead to hysteresis effects, path-dependent system evolution, and the coexistence of multiple attractor states.
+
+### Attractor Landscape and Multistability
+
+Due to the combined effects of nonlinearity, dissipation, and feedback modulation, the system may develop a complex attractor landscape. Different initial conditions can drive the system toward distinct stable stationary states, resulting in multistability and basin-dependent dynamics.
 
 ## Core Assumptions of the CQT Framework
 
